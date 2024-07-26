@@ -1,7 +1,9 @@
 Introduction
 
 Protocol Name: Uniswap
+
 Category: DeFi
+
 Smart Contract: UniswapV2Pair
 
 Function Analysis
